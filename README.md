@@ -49,7 +49,7 @@ console.log("Reload the page to play again!");
 
 ### Step 3: View Results
 
-If it works it will sayt
+If it works it will say it
 
 </details>
 
