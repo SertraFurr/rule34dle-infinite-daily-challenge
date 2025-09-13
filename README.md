@@ -2,6 +2,8 @@
 
 Name is straightforward ! 
 
+Only for this version of Rule34dle : https://rule34dle.vercel.app/
+
 ## Quick Start
 
 Code : 
